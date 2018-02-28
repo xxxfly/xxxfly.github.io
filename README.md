@@ -1,5 +1,5 @@
-#博客
+博客
 
-###博客联系
+博客联系
 
-###方式：使用GitHub Pages + jekyll
+方式：使用GitHub Pages + jekyll
