@@ -49,7 +49,7 @@ public void Test() {
 
 其中GetMD5方法如下：
 ```
- public static string GetMD5 (string sourceString) {
+public static string GetMD5 (string sourceString) {
     return FormsAuthentication.HashPasswordForStoringInConfigFile (sourceString, "MD5");
 }
 ```
