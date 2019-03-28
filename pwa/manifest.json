@@ -1,19 +1,19 @@
 {
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
-  "description": "About an engineer & designer who loves web.",
-  "icons": [{
-    "src": "icons/128.png",
-    "sizes": "128x128",
-    "type": "image/png"
-  }, {
-    "src": "icons/512.png",
-    "sizes": "512x512",
-    "type": "image/png"
-  }],
-  "background_color": "#fff",
-  "theme_color": "#000",
-  "start_url": "/",
-  "display": "standalone",
-  "orientation": "portrait"
+    "name": "zx Blog",
+    "short_name": "zx Blog",
+    "description": "遇到问题解决问题多有意思呀",
+    "icons": [{
+        "src": "icons/128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+    }, {
+        "src": "icons/512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }],
+    "background_color": "#fff",
+    "theme_color": "#000",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait"
 }
