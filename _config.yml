@@ -4,7 +4,7 @@ SEOTitle: 翔翔翔飞的博客 | Amaze Blog
 header-img: img/bg/headBG.jpg
 email: 970832396@qq.com
 description: "不积跬步无以至千里"
-keyword: "ZX,Blog, 翔翔翔飞的博客, xxxfly, .NET, C#, 前端, JS"
+keyword: ".NET, C#, 前端, JS,Python,Django,数据结构和算法,数据库,MySQL,MongoDB,Linux,ZX,Blog, 翔翔翔飞的博客, xxxfly"
 url: "http://xxxfly.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "git@github.com:xxxfly/xxxfly.github.io.git" # you code repository
@@ -64,9 +64,9 @@ gitalk:
   enable: false    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4   #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d  #同上
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  repo: xxxfly.github.io    #仓库名称
+  owner: xxxfly    #github用户名
+  admin: xxxfly
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -99,16 +99,15 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "ZX",
+        href: "https://github.com/xxxfly"
+    },
+    {
+        title: "Linux命令",
+        href: "http://man.linuxde.net/"
+    },
+    {
+        title: "微软搜索",
+        href: "https://cn.bing.com/"
     }
 ]
