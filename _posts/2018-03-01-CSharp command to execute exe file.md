@@ -21,7 +21,7 @@ tags:
 这里我是用来解析视频文件信息的
 
 代码如下
-```
+```C#
 using (System.Diagnostics.Process pro = new System.Diagnostics.Process())
 {
     pro.StartInfo.UseShellExecute = false;

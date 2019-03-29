@@ -20,7 +20,7 @@ tags:
 
 示例代码
 
-```
+```C#
 public void Test() {
     SortedDictionarysorted_dic = new SortedDictionary();
     //请求参数列表
@@ -48,7 +48,7 @@ public void Test() {
 ```
 
 其中GetMD5方法如下：
-```
+```C#
 public static string GetMD5 (string sourceString) {
     return FormsAuthentication.HashPasswordForStoringInConfigFile (sourceString, "MD5");
 }
